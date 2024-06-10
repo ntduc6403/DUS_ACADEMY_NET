@@ -1,0 +1,16 @@
+D:\DONET\random\random\bin\Debug\net8.0-windows\random.exe
+D:\DONET\random\random\bin\Debug\net8.0-windows\random.deps.json
+D:\DONET\random\random\bin\Debug\net8.0-windows\random.runtimeconfig.json
+D:\DONET\random\random\bin\Debug\net8.0-windows\random.dll
+D:\DONET\random\random\bin\Debug\net8.0-windows\random.pdb
+D:\DONET\random\random\obj\Debug\net8.0-windows\random.Form1.resources
+D:\DONET\random\random\obj\Debug\net8.0-windows\random.csproj.GenerateResource.cache
+D:\DONET\random\random\obj\Debug\net8.0-windows\random.GeneratedMSBuildEditorConfig.editorconfig
+D:\DONET\random\random\obj\Debug\net8.0-windows\random.AssemblyInfoInputs.cache
+D:\DONET\random\random\obj\Debug\net8.0-windows\random.AssemblyInfo.cs
+D:\DONET\random\random\obj\Debug\net8.0-windows\random.csproj.CoreCompileInputs.cache
+D:\DONET\random\random\obj\Debug\net8.0-windows\random.dll
+D:\DONET\random\random\obj\Debug\net8.0-windows\refint\random.dll
+D:\DONET\random\random\obj\Debug\net8.0-windows\random.pdb
+D:\DONET\random\random\obj\Debug\net8.0-windows\random.genruntimeconfig.cache
+D:\DONET\random\random\obj\Debug\net8.0-windows\ref\random.dll

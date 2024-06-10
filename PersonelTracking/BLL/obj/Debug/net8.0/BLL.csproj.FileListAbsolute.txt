@@ -1,0 +1,4 @@
+D:\DONET\PersonelTracking\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DONET\PersonelTracking\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+D:\DONET\PersonelTracking\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+D:\DONET\PersonelTracking\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache

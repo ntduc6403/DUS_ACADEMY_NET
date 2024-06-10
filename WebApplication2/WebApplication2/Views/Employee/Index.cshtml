@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+@model WebApplication2.Models.Employee
+<h2>Index</h2>
+
+<table>
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Salary</th>
+    </tr>
+    <tr>
+        <th>@Model.Id</th>
+        <th>@Model.Name</th>
+        <th>@Model.Salary</th>
+    </tr>
+</table>

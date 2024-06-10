@@ -1,0 +1,54 @@
+﻿@using Microsoft.AspNet.SignalR
+
+@{
+    ViewBag.Title = "Chat Page";
+}
+
+<div>
+    <h2>Chat Box</h2>
+    <div>
+        <input type="text" id="message" placeholder="Type your message" />
+        <input type="button" id="sendButton" value="Send" />
+    </div>
+
+    <ul id="discussion"></ul>
+</div>
+
+<script src="~/Scripts/jquery-3.6.0.min.js"></script>
+<script src="~/Scripts/jquery.signalR-2.4.3.min.js"></script>
+<script src="~/signalr/hubs"></script>
+
+<script type="text/javascript">
+    $(function () {
+        // Khởi tạo proxy của Hub
+        var chat = $.connection.chatHub;
+
+        // Khai báo phương thức xử lý tin nhắn mới
+        chat.client.addNewMessage = function (name, message) {
+            // Hiển thị tin nhắn mới
+            $('#discussion').append('<li><strong>' + htmlEncode(name)
+                + '</strong>: ' + htmlEncode(message) + '</li>');
+        };
+
+        // Kết nối đến Hub và bắt đầu kết nối
+        $.connection.hub.start().done(function () {
+            $('#sendButton').click(function () {
+                // Lấy tên người dùng và nội dung tin nhắn từ form
+                var name = 'User'; // Thay bằng tên người dùng thực tế nếu có
+                var message = $('#message').val();
+
+                // Gọi phương thức Send trên Hub
+                chat.server.send(name, message);
+
+                // Xóa nội dung tin nhắn trong textbox và đưa tiêu điểm vào textbox
+                $('#message').val('').focus();
+            });
+        });
+
+        // Hàm mã hóa chuỗi
+        function htmlEncode(value) {
+            var encodedValue = $('<div />').text(value).html();
+            return encodedValue;
+        }
+    });
+</script>

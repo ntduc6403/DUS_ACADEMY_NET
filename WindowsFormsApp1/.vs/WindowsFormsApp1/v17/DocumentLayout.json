@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DONET\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{974A61B1-B5B7-4D25-A463-943521DBB7D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\donet\\windowsformsapp1\\windowsformsapp1\\dataclasses2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{974A61B1-B5B7-4D25-A463-943521DBB7D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\dataclasses2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974A61B1-B5B7-4D25-A463-943521DBB7D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\donet\\windowsformsapp1\\windowsformsapp1\\dataclasses2.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{974A61B1-B5B7-4D25-A463-943521DBB7D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\dataclasses2.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974A61B1-B5B7-4D25-A463-943521DBB7D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\donet\\windowsformsapp1\\windowsformsapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{974A61B1-B5B7-4D25-A463-943521DBB7D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DONET\\WindowsFormsApp1\\WindowsFormsApp1\\DataClasses1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WindowsFormsApp1\\DataClasses1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974A61B1-B5B7-4D25-A463-943521DBB7D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\DONET\\WindowsFormsApp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{974A61B1-B5B7-4D25-A463-943521DBB7D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DONET\\WindowsFormsApp1\\windowsformsapp1\\dataclasses1.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:windowsformsapp1\\dataclasses1.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataClasses2.designer.cs",
+              "DocumentMoniker": "D:\\DONET\\WindowsFormsApp1\\WindowsFormsApp1\\DataClasses2.designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\DataClasses2.designer.cs",
+              "ToolTip": "D:\\DONET\\WindowsFormsApp1\\WindowsFormsApp1\\DataClasses2.designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\DataClasses2.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T10:11:03.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataClasses2.dbml",
+              "DocumentMoniker": "D:\\DONET\\WindowsFormsApp1\\WindowsFormsApp1\\DataClasses2.dbml",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\DataClasses2.dbml",
+              "ToolTip": "D:\\DONET\\WindowsFormsApp1\\WindowsFormsApp1\\DataClasses2.dbml",
+              "RelativeToolTip": "WindowsFormsApp1\\DataClasses2.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2024-03-31T10:10:55.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\DONET\\WindowsFormsApp1\\WindowsFormsApp1\\App.config",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\App.config",
+              "ToolTip": "D:\\DONET\\WindowsFormsApp1\\WindowsFormsApp1\\App.config",
+              "RelativeToolTip": "WindowsFormsApp1\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-30T18:35:11.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataClasses1.designer.cs",
+              "DocumentMoniker": "D:\\DONET\\WindowsFormsApp1\\WindowsFormsApp1\\DataClasses1.designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\DataClasses1.designer.cs",
+              "ToolTip": "D:\\DONET\\WindowsFormsApp1\\WindowsFormsApp1\\DataClasses1.designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\DataClasses1.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T17:03:15.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataClasses1.dbml",
+              "DocumentMoniker": "D:\\DONET\\WindowsFormsApp1\\WindowsFormsApp1\\DataClasses1.dbml",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\DataClasses1.dbml",
+              "ToolTip": "D:\\DONET\\WindowsFormsApp1\\WindowsFormsApp1\\DataClasses1.dbml",
+              "RelativeToolTip": "WindowsFormsApp1\\DataClasses1.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2024-03-30T17:02:52.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\DONET\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\DONET\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T17:02:23.958Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

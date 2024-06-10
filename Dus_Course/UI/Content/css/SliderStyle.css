@@ -1,0 +1,125 @@
+.slidershow {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    min-height: 100vh;
+    position: relative;
+    overflow: hidden;
+    bottom: 30px;
+}
+
+.main-image {
+    width: 80%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 1s ease-in-out;
+    position: relative;
+    filter: brightness(50%);
+}
+
+.thumbnails {
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.thumbnail {
+    width: 100%;
+    height: calc((100vh - 60px) / 3);
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+    transition: transform 0.3s;
+}
+
+    .thumbnail:hover {
+        transform: scale(1.1);
+    }
+    .thumbnail.active {
+        transform: scale(1.1); 
+    }
+
+
+.slider-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+    z-index: 2;
+}
+
+.title {
+    font-size: 3em;
+    margin-bottom: 20px;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 0.15em solid white;
+    animation: appear-text 3s forwards;
+    color: #db4437;
+    color: orangered;
+}
+   
+    .title:after {
+        content: '...';
+        display: inline-block;
+        width: 0;
+        animation: blink-caret 0.75s step-end infinite;
+    }
+.description {
+    font-size: 1.5em;
+    color: rgba(255, 255, 255, 0.7);
+    font-style: italic;
+}
+.scroll-button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color: rgba(219, 68, 55, 0.5);
+    color: #fff;
+    border: 1px solid #db4437;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+    .scroll-button:hover {
+        background-color: #db4437;
+    }
+
+
+@keyframes typing {
+    from {
+        width: 0;
+    }
+
+    to {
+        width: 100%;
+    }
+}
+
+@keyframes blink-caret {
+    from, to {
+        border-color: transparent;
+    }
+
+    50% {
+        border-color: white;
+    }
+}
+@keyframes appear-text {
+    from {
+        width: 0;
+    }
+
+    to {
+        width: 100%;
+    }
+}

@@ -1,0 +1,154 @@
+﻿
+@{
+    ViewBag.Title = "PostList";
+    Layout = "~/Areas/Admin/Views/Shared/AdminLayout.cshtml";
+}
+
+@model List<DTO.PostDTO>
+
+<section class="content-header">
+    <h1>Post List</h1>
+    <ol class="breadcrumb float-sm-left">
+        <li class="breadcrumb-item"> <a>Admin</a> </li>
+        <li class="breadcrumb-item"> <a>Post</a> </li>
+        <li class="breadcrumb-item active"> <a>Post List</a> </li>
+
+    </ol>
+</section>
+<br />
+<div class="card-footer">
+    <button type="submit" class="btn btn-primary" onclick="window.location.href='/Admin/Post/AddPost'">Add Post</button>
+</div>
+@using DTO
+@{ 
+    CountDTO countdto = (CountDTO)ViewData["AllCounts"];
+}
+<div class="card">
+    <!-- Small boxes (Stat box) -->
+    <div class="row">
+        <div class="col-lg-3 col-6">
+            <!-- small box -->
+            <div class="small-box bg-info">
+                <div class="inner">
+                    <h3>@countdto.PostCount</h3>
+
+                    <p>Post Count</p>
+                </div>
+                <div class="icon">
+                    <i class="ion ion-bag"></i>
+                </div>
+                <a href="#example1" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+        </div>
+        <!-- ./col -->
+        <div class="col-lg-3 col-6">
+            <!-- small box -->
+            <div class="small-box bg-success">
+                <div class="inner">
+                    <h3>@countdto.ViewCount</h3>
+
+                    <p>View Count</p>
+                </div>
+                <div class="icon">
+                    <i class="ion ion-stats-bars"></i>
+                </div>
+                <a href="#" class="small-box-footer">All page views</a>
+            </div>
+        </div>
+        <!-- ./col -->
+        <div class="col-lg-3 col-6">
+            <!-- small box -->
+            <div class="small-box bg-warning">
+                <div class="inner">
+                    <h3>@countdto.CommentCount</h3>
+
+                    <p>Comment Count</p>
+                </div>
+                <div class="icon">
+                    <i class="ion ion-person-add"></i>
+                </div>
+                <a href="/Admin/Comment/AllComments" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+        </div>
+        <!-- ./col -->
+        <div class="col-lg-3 col-6">
+            <!-- small box -->
+            <div class="small-box bg-danger">
+                <div class="inner">
+                    <h3>@countdto.MessageCount</h3>
+
+                    <p>FeedBack Count</p>
+                </div>
+                <div class="icon">
+                    <i class="ion ion-pie-graph"></i>
+                </div>
+                <a href="/Admin/Contact/AllMessages" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+        </div>
+        <!-- ./col -->
+    </div>
+    <!-- /.row -->
+    <!-- /.card-header -->
+    <div class="card-body">
+        <table id="example1" class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Category Name</th>
+                    <th>Add Date</th>
+                    <th>Update</th>
+                    <th>Delete</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+
+                    <tr id="a_@item.ID">
+                        <td>@item.Title</td>
+                        <td>
+                            @item.CategoryName
+                        </td>
+                        <td>
+
+                            @item.AddDate.ToString("dd.MM.yyyy, dddd")
+
+                        </td>
+                        <td align="center" valign="middle">
+                            <a href="/Admin/Post/UpdatePost/@item.ID">
+                                <br />
+                                <img src="~/Areas/Admin/Content/icons/update.png" />
+                            </a>
+                        </td>
+                        <td align="center" valign="middle">
+                            <a href="#">
+                                <br />
+                                <img src="~/Areas/Admin/Content/icons/delete.png" onclick="AskQuestion('/Admin/Post/DeletePost/',@item.ID)" />
+                            </a>
+                        </td>
+
+                    </tr>
+
+
+                }
+            </tbody>
+
+            <tfoot>
+
+
+                <tr>
+                    <th>Title</th>
+                    <th>Category Name</th>
+                    <th>Add Date</th>
+                    <th>Update</th>
+                    <th>Delete</th>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+    @Html.Partial("~/Areas/Admin/Views/Shared/ModalMessage.cshtml")
+    <!-- /.card-body -->
+</div>
+<script src="~/Areas/Admin/Content/JS/DeleteRecord.js"></script>
+

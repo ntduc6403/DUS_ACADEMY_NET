@@ -1,0 +1,380 @@
+﻿
+@{
+    ViewBag.Title = "PostDetail";
+    Layout = "~/Views/Share/HomeLayout.cshtml";
+}
+@model DTO.GeneralDTO
+<!-- ##### Breadcrumb Area Start ##### -->
+<!-- ##### Breadcrumb Area End ##### -->
+<!-- ##### Pager Area Start ##### -->
+<div class="vizew-archive-list-posts-area">
+    <div class="vizew-breadcrumb" style=" padding-top: 13px; padding-bottom: 13px;">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <nav aria-label="breadcrumb">
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="#"><i class="fa fa-book" aria-hidden="true"></i> Courses</a></li>
+                            <li class="breadcrumb-item"><a href="#">@Model.PostDetail.CategoryName</a></li>
+                            <li class="breadcrumb-item active" aria-current="page">@Model.PostDetail.Title</li>
+
+                        </ol>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="featured-post-slides owl-carousel mb-30">
+    @foreach (var item in Model.PostDetail.PostImages)
+    {
+        <div class="single-feature-post video-post bg-img" style="background-image: url(/Areas/Admin/Content/PostImage/@item.ImagePath); width:80% !important; margin:0 auto !important;">
+            <!-- Play Button -->
+            <!-- Post Content -->
+            <!-- Video Duration -->
+            <span class="video-duration">DusTin Nguyen</span>
+        </div>
+    }
+    <!-- Single Feature Post -->
+
+
+</div>
+<!-- ##### Pager Area End ##### -->
+<!-- ##### Post Details Area Start ##### -->
+<section class="post-details-area mb-80">
+    <div class="container">
+
+
+        <div class="row justify-content-center">
+            <!-- Post Details Content Area -->
+            <div class="col-12 col-lg-8">
+                <div class="post-details-content d-flex">
+                    <!-- Post Share Info -->
+                    <div class="post-share-info">
+                        <p>Share</p>
+
+                        <a href="http://www.facebook.com/sharer.php?s=100&p[url]=https://oakacademy.uk/&p[title]=@Model.PostDetail.Title&p[summary]=@Model.PostDetail.ShortContent" target="_blank" class="facebook"><i class="fa fa-facebook"></i></a>
+                        <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
+                        <a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
+                        <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
+                        <a href="#" class="thumb-tack"><i class="fa fa-thumb-tack"></i></a>
+                    </div>
+
+                    <!-- Blog Content -->
+                    <div class="blog-content">
+
+                        <!-- Post Content -->
+                        <div class="post-content mt-0">
+                            <a href="#" class="post-cata cata-sm cata-danger">@Model.PostDetail.CategoryName</a>
+                            <a href="#" class="post-cata cata-sm cata-danger">@Model.PostDetail.Language</a>
+
+                            <a href="" class="post-title mb-2">@Model.PostDetail.Title</a>
+
+                            <div class="d-flex justify-content-between mb-30">
+                                <div class="post-meta d-flex align-items-center">
+                                    <a href="#" class="post-author">DUS Academy-Tien Duc</a>
+                                    <i class="fa fa-circle" aria-hidden="true"></i>
+                                    <a href="#" class="post-date">@Model.PostDetail.AddDate.ToString("dd.MM.yyyy dddd")</a>
+
+                                </div>
+                                <div class="post-meta d-flex">
+                                    <a href="#"><i class="fa fa-comments-o" aria-hidden="true"></i> @Model.PostDetail.CommentCount</a>
+                                    <a href="#"><i class="fa fa-eye" aria-hidden="true"></i> @Model.PostDetail.ViewCount</a>
+
+                                </div>
+                            </div>
+                        </div>
+
+                        @Html.Raw(Model.PostDetail.PostContent)
+                        <br />
+                     
+                        <!-- Post Tags -->
+                        <div class="post-tags mt-30">
+                            <ul>
+                                @foreach (var item in Model.PostDetail.TagList)
+                                {
+
+                                    <li><a href="#">@item.TagContent</a></li>
+
+                                }
+                            </ul>
+                        </div>
+
+
+                        <!-- Post Author -->
+                        <div class="vizew-post-author d-flex align-items-center py-5">
+                            <div class="post-author-thumb">
+                                <img src="~/Content/SliderImage/30.jpg" alt="">
+                            </div>
+                            <div class="post-author-desc pl-4">
+                                <a href="#" class="author-name">DUS Academy_Tien Duc</a>
+                                <p style=" line-height: 2;">
+                                    Hi there,
+
+                                    My name is Nguyen Tien Duc. We created Academy to provide accessible, high-quality education to everyone, empowering individuals to achieve their personal and professional goals through flexible and interactive learning..
+                                </p>
+                                <div class="post-author-social-info">
+                                    <a href="#"><i class="fa fa-facebook"></i></a>
+                                    <a href="#"><i class="fa fa-twitter"></i></a>
+                                    <a href="#"><i class="fa fa-pinterest"></i></a>
+                                    <a href="#"><i class="fa fa-linkedin"></i></a>
+                                    <a href="#"><i class="fa fa-dribbble"></i></a>
+                                </div>
+
+                            </div>
+                        </div>
+
+
+
+
+
+
+                        
+
+
+                    </div>
+                </div>
+            </div>
+
+            <!-- Sidebar Widget -->
+            <div class="col-12 col-md-6 col-lg-4">
+                <div class="sidebar-area">
+
+                    <!-- ***** Single Widget ***** -->
+                    <div class="single-widget followers-widget mb-50">
+                        <a href="#" class="facebook"><i class="fa fa-facebook" aria-hidden="true"></i><span class="counter">298</span><span>Fan</span></a>
+                        <a href="#" class="twitter"><i class="fa fa-twitter" aria-hidden="true"></i><span class="counter">320</span><span>Followers</span></a>
+                        <a href="#" class="google"><i class="fa fa-google" aria-hidden="true"></i><span class="counter">240</span><span>Subscribe</span></a>
+                    </div>
+
+                    <br />
+                    <!-- ***** Single Widget ***** -->
+                    <div class="single-widget mb-50">
+                        <!-- Section Heading -->
+                        <div class="section-heading style-2 mb-30">
+                            <h4>Breaking Trainings</h4>
+                            <div class="line"></div>
+                        </div>
+
+                        <!-- Single Blog Post -->
+                        @foreach (var item in Model.BreakingPost)
+                        {
+                            <div class="single-blog-post d-flex">
+                                <div class="post-thumbnail">
+                                    <img src="~/Areas/Admin/Content/PostImage/@item.ImagePath" alt="">
+                                </div>
+                                <div class="post-content">
+                                    <a href="@Url.RouteUrl("PostDetail", new {@ID=item.ID,@CategoryName=BLL.SeoLink.GenerateUrl(item.CategoryName) ,@SeoLink = item.SeoLink})" class="post-title">@item.Title</a>
+                                    <div class="post-meta d-flex justify-content-between">
+                                        <a href="#"><i class="fa fa-comments-o" aria-hidden="true"></i>@item.CommentCount </a>
+                                        <a href="#"><i class="fa fa-eye" aria-hidden="true"></i> @item.ViewCount</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        }
+
+
+                        <!-- Single Blog Post -->
+
+                    </div>
+
+                    <!-- ***** Single Widget ***** -->
+                    <!-- ***** Single Widget ***** -->
+                    
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<div class="container-video mb-80">
+    <div class="main-video">
+        <div class="video">
+            <iframe id="iframe-view" src="" width="800" height="400"></iframe>
+            <h3 id="title-view" class="title-video-detail">Select a video to play</h3>
+        </div>
+    </div>
+    <div class="video-list">
+        <ul>
+            @foreach (var item in Model.PostDetail.Videos)
+            {
+                <li onclick="displayVideo('@item.OriginalVideoPath', '@item.Title', this)" class="vid">
+                    <div class="video-item">
+                        <p class="other-video-card"><b>@item.Title</b></p>
+                    </div>
+                </li>
+            }
+        </ul>
+    </div>
+</div>
+
+
+
+<section class="post-details-area mb-80">
+    <div class="container">
+
+
+        <div class="row justify-content-center">
+            <!-- Post Details Content Area -->
+            <div class="col-12 col-lg-8">
+                <div class="post-details-content d-flex">
+
+
+
+                    <!-- Blog Content -->
+                    <div class="blog-content">
+
+
+
+
+
+
+
+                        <!-- Post Author -->
+                        <div class="vizew-post-author d-flex align-items-center py-5">
+                            <div class="post-author-thumb">
+                                <img src="~/Content/SliderImage/30.jpg" alt="">
+                            </div>
+                            <div class="post-author-desc pl-4">
+                                <a href="#" class="author-name">DUS Academy_Tien Duc</a>
+                                <p style=" line-height: 2;">
+                                    Hi there,
+
+                                    My name is Nguyen Tien Duc. We created Academy to provide accessible, high-quality education to everyone, empowering individuals to achieve their personal and professional goals through flexible and interactive learning..
+                                </p>
+                                <div class="post-author-social-info">
+                                    <a href="#"><i class="fa fa-facebook"></i></a>
+                                    <a href="#"><i class="fa fa-twitter"></i></a>
+                                    <a href="#"><i class="fa fa-pinterest"></i></a>
+                                    <a href="#"><i class="fa fa-linkedin"></i></a>
+                                    <a href="#"><i class="fa fa-dribbble"></i></a>
+                                </div>
+
+                            </div>
+                        </div>
+
+
+
+
+
+
+                        <!-- Comment Area Start -->
+                        <div class="comment_area clearfix mb-50">
+
+                            <!-- Section Title -->
+                            <div class="section-heading style-2">
+                                <h4>Comment</h4>
+                                <div class="line"></div>
+                            </div>
+                            <ul>
+
+                                @foreach (var item in Model.PostDetail.CommentList)
+                                {
+                                    <li class="single_comment_area">
+                                        <!-- Comment Content -->
+                                        <div class="comment-content d-flex">
+
+                                            <!-- Comment Meta -->
+                                            <div class="comment-meta">
+                                                <a href="#" class="comment-date">@item.AddDate.ToString("dd.MM.yyyy dddd")</a>
+                                                <h6>@item.Name</h6>
+                                                <p>@item.CommentContent</p>
+                                                <div class="d-flex align-items-center">
+                                                    @*<a href="#" class="like">like</a>
+                                                        <a href="#" class="reply">Reply</a>*@
+                                                </div>
+                                            </div>
+                                        </div>
+
+
+                                    </li>
+                                }
+                                <!-- Single Comment Area -->
+
+
+                            </ul>
+                        </div>
+
+                        <!-- Post A Comment Area -->
+                        <div class="post-a-comment-area">
+
+                            <!-- Section Title -->
+                            <div class="section-heading style-2">
+                                <h4>Leave a reply</h4>
+                                <div class="line"></div>
+                            </div>
+
+                            <!-- Reply Form -->
+                            <div class="contact-form-area">
+                                <form action="" method="post">
+                                    <div class="row">
+                                        <div class="col-12 col-lg-6">
+                                            <input type="text" name="Name" class="form-control" id="name" placeholder="Your Name*">
+                                        </div>
+                                        <div class="col-12 col-lg-6">
+                                            <input type="email" name="Email" class="form-control" id="email" placeholder="Your Email*">
+                                        </div>
+                                        <div class="col-12">
+                                            <textarea name="Message" class="form-control" id="message" placeholder="Message*"></textarea>
+                                        </div>
+                                        <input hidden value="@Model.PostDetail.ID" name="PostID" />
+                                        <div class="col-12">
+                                            <button class="btn vizew-btn mt-30" type="submit">Submit Comment</button>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+            <!-- Sidebar Widget -->
+            <div class="col-12 col-md-6 col-lg-4">
+                <div class="sidebar-area">
+
+
+
+
+
+                    <!-- ***** Single Widget ***** -->
+                    <!-- ***** Single Widget ***** -->
+                    <div class="single-widget add-widget mb-50">
+                        <a href="@Model.Adslist[0].Link" target="_blank"><img src="~/Areas/Admin/Content/QC_Image/@Model.Adslist[0].ImagePath" alt=""></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+
+
+
+
+<script>
+    function displayVideo(OriginalVideoPath, title, element) {
+        // Set the video src and title
+        document.getElementById("iframe-view").src = OriginalVideoPath;
+        document.getElementById("title-view").innerText = title;
+
+        // Remove 'selected' class from all video items
+        var items = document.querySelectorAll('.video-list li');
+        items.forEach(function (item) {
+            item.classList.remove('selected');
+        });
+
+        // Add 'selected' class to the clicked item
+        element.classList.add('selected');
+
+        // Add 'video-playing' class to main video container
+        document.querySelector('.main-video').classList.add('video-playing');
+    }
+</script>
+
+

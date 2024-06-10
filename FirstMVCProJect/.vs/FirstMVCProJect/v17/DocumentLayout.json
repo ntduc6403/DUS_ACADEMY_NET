@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DONET\\FirstMVCProJect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|FirstMVCProJect||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1271AED0-3C9A-4213-904F-05C9AEC6424E}|FirstMVCProJect\\FirstMVCProJect.csproj|D:\\DONET\\FirstMVCProJect\\firstmvcproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1271AED0-3C9A-4213-904F-05C9AEC6424E}|FirstMVCProJect\\FirstMVCProJect.csproj|solutionrelative:firstmvcproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1271AED0-3C9A-4213-904F-05C9AEC6424E}|FirstMVCProJect\\FirstMVCProJect.csproj|d:\\donet\\firstmvcproject\\firstmvcproject\\views\\shared\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1271AED0-3C9A-4213-904F-05C9AEC6424E}|FirstMVCProJect\\FirstMVCProJect.csproj|solutionrelative:firstmvcproject\\views\\shared\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1271AED0-3C9A-4213-904F-05C9AEC6424E}|FirstMVCProJect\\FirstMVCProJect.csproj|D:\\DONET\\FirstMVCProJect\\firstmvcproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1271AED0-3C9A-4213-904F-05C9AEC6424E}|FirstMVCProJect\\FirstMVCProJect.csproj|solutionrelative:firstmvcproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1271AED0-3C9A-4213-904F-05C9AEC6424E}|FirstMVCProJect\\FirstMVCProJect.csproj|D:\\DONET\\FirstMVCProJect\\firstmvcproject\\views\\home\\emdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1271AED0-3C9A-4213-904F-05C9AEC6424E}|FirstMVCProJect\\FirstMVCProJect.csproj|solutionrelative:firstmvcproject\\views\\home\\emdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1271AED0-3C9A-4213-904F-05C9AEC6424E}|FirstMVCProJect\\FirstMVCProJect.csproj|D:\\DONET\\FirstMVCProJect\\firstmvcproject\\views\\home\\ourproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1271AED0-3C9A-4213-904F-05C9AEC6424E}|FirstMVCProJect\\FirstMVCProJect.csproj|solutionrelative:firstmvcproject\\views\\home\\ourproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1271AED0-3C9A-4213-904F-05C9AEC6424E}|FirstMVCProJect\\FirstMVCProJect.csproj|D:\\DONET\\FirstMVCProJect\\firstmvcproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1271AED0-3C9A-4213-904F-05C9AEC6424E}|FirstMVCProJect\\FirstMVCProJect.csproj|solutionrelative:firstmvcproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1271AED0-3C9A-4213-904F-05C9AEC6424E}|FirstMVCProJect\\FirstMVCProJect.csproj|D:\\DONET\\FirstMVCProJect\\firstmvcproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1271AED0-3C9A-4213-904F-05C9AEC6424E}|FirstMVCProJect\\FirstMVCProJect.csproj|solutionrelative:firstmvcproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1271AED0-3C9A-4213-904F-05C9AEC6424E}|FirstMVCProJect\\FirstMVCProJect.csproj|D:\\DONET\\FirstMVCProJect\\firstmvcproject\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1271AED0-3C9A-4213-904F-05C9AEC6424E}|FirstMVCProJect\\FirstMVCProJect.csproj|solutionrelative:firstmvcproject\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1271AED0-3C9A-4213-904F-05C9AEC6424E}|FirstMVCProJect\\FirstMVCProJect.csproj|D:\\DONET\\FirstMVCProJect\\firstmvcproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1271AED0-3C9A-4213-904F-05C9AEC6424E}|FirstMVCProJect\\FirstMVCProJect.csproj|solutionrelative:firstmvcproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1271AED0-3C9A-4213-904F-05C9AEC6424E}|FirstMVCProJect\\FirstMVCProJect.csproj|D:\\DONET\\FirstMVCProJect\\firstmvcproject\\views\\account\\ivalidlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1271AED0-3C9A-4213-904F-05C9AEC6424E}|FirstMVCProJect\\FirstMVCProJect.csproj|solutionrelative:firstmvcproject\\views\\account\\ivalidlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1271AED0-3C9A-4213-904F-05C9AEC6424E}|FirstMVCProJect\\FirstMVCProJect.csproj|D:\\DONET\\FirstMVCProJect\\firstmvcproject\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1271AED0-3C9A-4213-904F-05C9AEC6424E}|FirstMVCProJect\\FirstMVCProJect.csproj|solutionrelative:firstmvcproject\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1271AED0-3C9A-4213-904F-05C9AEC6424E}|FirstMVCProJect\\FirstMVCProJect.csproj|d:\\donet\\firstmvcproject\\firstmvcproject\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FirstMVCProJect",
+              "DocumentMoniker": "D:\\DONET\\FirstMVCProJect\\FirstMVCProJect\\FirstMVCProJect.csproj",
+              "RelativeDocumentMoniker": "FirstMVCProJect\\FirstMVCProJect.csproj",
+              "ToolTip": "D:\\DONET\\FirstMVCProJect\\FirstMVCProJect\\FirstMVCProJect.csproj",
+              "RelativeToolTip": "FirstMVCProJect\\FirstMVCProJect.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-03T10:54:17.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\DONET\\FirstMVCProJect\\FirstMVCProJect\\Views\\Shared\\Contact.cshtml",
+              "RelativeDocumentMoniker": "FirstMVCProJect\\Views\\Shared\\Contact.cshtml",
+              "ToolTip": "D:\\DONET\\FirstMVCProJect\\FirstMVCProJect\\Views\\Shared\\Contact.cshtml",
+              "RelativeToolTip": "FirstMVCProJect\\Views\\Shared\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T07:59:35.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmDetail.cshtml",
+              "DocumentMoniker": "D:\\DONET\\FirstMVCProJect\\FirstMVCProJect\\Views\\Home\\EmDetail.cshtml",
+              "RelativeDocumentMoniker": "FirstMVCProJect\\Views\\Home\\EmDetail.cshtml",
+              "ToolTip": "D:\\DONET\\FirstMVCProJect\\FirstMVCProJect\\Views\\Home\\EmDetail.cshtml",
+              "RelativeToolTip": "FirstMVCProJect\\Views\\Home\\EmDetail.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAFwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T14:19:01.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\DONET\\FirstMVCProJect\\FirstMVCProJect\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "FirstMVCProJect\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\DONET\\FirstMVCProJect\\FirstMVCProJect\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "FirstMVCProJect\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T10:33:43.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\DONET\\FirstMVCProJect\\FirstMVCProJect\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "FirstMVCProJect\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "D:\\DONET\\FirstMVCProJect\\FirstMVCProJect\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "FirstMVCProJect\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T06:22:14.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\DONET\\FirstMVCProJect\\FirstMVCProJect\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "FirstMVCProJect\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\DONET\\FirstMVCProJect\\FirstMVCProJect\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "FirstMVCProJect\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T06:21:18.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DONET\\FirstMVCProJect\\FirstMVCProJect\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FirstMVCProJect\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DONET\\FirstMVCProJect\\FirstMVCProJect\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FirstMVCProJect\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T10:02:53.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OurProduct.cshtml",
+              "DocumentMoniker": "D:\\DONET\\FirstMVCProJect\\FirstMVCProJect\\Views\\Home\\OurProduct.cshtml",
+              "RelativeDocumentMoniker": "FirstMVCProJect\\Views\\Home\\OurProduct.cshtml",
+              "ToolTip": "D:\\DONET\\FirstMVCProJect\\FirstMVCProJect\\Views\\Home\\OurProduct.cshtml",
+              "RelativeToolTip": "FirstMVCProJect\\Views\\Home\\OurProduct.cshtml",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAACwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T03:58:16.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DONET\\FirstMVCProJect\\FirstMVCProJect\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FirstMVCProJect\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\DONET\\FirstMVCProJect\\FirstMVCProJect\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FirstMVCProJect\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T10:12:20.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\DONET\\FirstMVCProJect\\FirstMVCProJect\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "FirstMVCProJect\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\DONET\\FirstMVCProJect\\FirstMVCProJect\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "FirstMVCProJect\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T06:21:40.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IvalidLogin.cshtml",
+              "DocumentMoniker": "D:\\DONET\\FirstMVCProJect\\FirstMVCProJect\\Views\\Account\\IvalidLogin.cshtml",
+              "RelativeDocumentMoniker": "FirstMVCProJect\\Views\\Account\\IvalidLogin.cshtml",
+              "ToolTip": "D:\\DONET\\FirstMVCProJect\\FirstMVCProJect\\Views\\Account\\IvalidLogin.cshtml",
+              "RelativeToolTip": "FirstMVCProJect\\Views\\Account\\IvalidLogin.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T06:29:00.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "web.config",
+              "DocumentMoniker": "D:\\DONET\\FirstMVCProJect\\FirstMVCProJect\\Views\\web.config",
+              "RelativeDocumentMoniker": "FirstMVCProJect\\Views\\web.config",
+              "ToolTip": "D:\\DONET\\FirstMVCProJect\\FirstMVCProJect\\Views\\web.config",
+              "RelativeToolTip": "FirstMVCProJect\\Views\\web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-02T03:44:30.199Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

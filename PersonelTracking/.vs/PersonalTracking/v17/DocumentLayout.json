@@ -1,0 +1,521 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DONET\\PersonelTracking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|D:\\DONET\\PersonelTracking\\personeltracking\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|solutionrelative:personeltracking\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|D:\\DONET\\PersonelTracking\\personeltracking\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|solutionrelative:personeltracking\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|D:\\DONET\\PersonelTracking\\personeltracking\\frmdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|solutionrelative:personeltracking\\frmdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|D:\\DONET\\PersonelTracking\\personeltracking\\frmemployeelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|solutionrelative:personeltracking\\frmemployeelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|D:\\DONET\\PersonelTracking\\personeltracking\\frmemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|solutionrelative:personeltracking\\frmemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|d:\\donet\\personeltracking\\personeltracking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|solutionrelative:personeltracking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|d:\\donet\\personeltracking\\personeltracking\\general.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|solutionrelative:personeltracking\\general.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|d:\\donet\\personeltracking\\personeltracking\\frmtasklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|solutionrelative:personeltracking\\frmtasklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|D:\\DONET\\PersonelTracking\\personeltracking\\frmtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|solutionrelative:personeltracking\\frmtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|D:\\DONET\\PersonelTracking\\personeltracking\\frmsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|solutionrelative:personeltracking\\frmsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|D:\\DONET\\PersonelTracking\\personeltracking\\frmsalarylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|solutionrelative:personeltracking\\frmsalarylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|D:\\DONET\\PersonelTracking\\personeltracking\\frmtasklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|solutionrelative:personeltracking\\frmtasklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|D:\\DONET\\PersonelTracking\\personeltracking\\frmpositionlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|solutionrelative:personeltracking\\frmpositionlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|D:\\DONET\\PersonelTracking\\personeltracking\\frmposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|solutionrelative:personeltracking\\frmposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|D:\\DONET\\PersonelTracking\\personeltracking\\frmdepartmentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|solutionrelative:personeltracking\\frmdepartmentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|D:\\DONET\\PersonelTracking\\personeltracking\\frmpermissionlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|solutionrelative:personeltracking\\frmpermissionlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|D:\\DONET\\PersonelTracking\\personeltracking\\frmpermissionlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|solutionrelative:personeltracking\\frmpermissionlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|D:\\DONET\\PersonelTracking\\personeltracking\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|solutionrelative:personeltracking\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|D:\\DONET\\PersonelTracking\\personeltracking\\frmpermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|solutionrelative:personeltracking\\frmpermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|D:\\DONET\\PersonelTracking\\personeltracking\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|solutionrelative:personeltracking\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|D:\\DONET\\PersonelTracking\\personeltracking\\frmemployeelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|solutionrelative:personeltracking\\frmemployeelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|D:\\DONET\\PersonelTracking\\personeltracking\\frmdepartmentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|solutionrelative:personeltracking\\frmdepartmentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|D:\\DONET\\PersonelTracking\\personeltracking\\frmdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|solutionrelative:personeltracking\\frmdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|D:\\DONET\\PersonelTracking\\personeltracking\\resources\\recruitment.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|solutionrelative:personeltracking\\resources\\recruitment.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5899FFDF-B59B-46DE-AFBA-EEF2C04522B2}|DAL\\DAL.csproj|D:\\DONET\\PersonelTracking\\dal\\employeedataclass.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5899FFDF-B59B-46DE-AFBA-EEF2C04522B2}|DAL\\DAL.csproj|solutionrelative:dal\\employeedataclass.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5899FFDF-B59B-46DE-AFBA-EEF2C04522B2}|DAL\\DAL.csproj|D:\\DONET\\PersonelTracking\\dal\\dao\\departmentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5899FFDF-B59B-46DE-AFBA-EEF2C04522B2}|DAL\\DAL.csproj|solutionrelative:dal\\dao\\departmentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F45EF94-F306-49BB-A0CF-3C2556BD57E2}|BLL\\BLL.csproj|D:\\DONET\\PersonelTracking\\bll\\departmentbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F45EF94-F306-49BB-A0CF-3C2556BD57E2}|BLL\\BLL.csproj|solutionrelative:bll\\departmentbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5899FFDF-B59B-46DE-AFBA-EEF2C04522B2}|DAL\\DAL.csproj|D:\\DONET\\PersonelTracking\\dal\\employeedataclass.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{5899FFDF-B59B-46DE-AFBA-EEF2C04522B2}|DAL\\DAL.csproj|solutionrelative:dal\\employeedataclass.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|D:\\DONET\\PersonelTracking\\personeltracking\\frmdepartment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|solutionrelative:personeltracking\\frmdepartment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|D:\\DONET\\PersonelTracking\\personeltracking\\frmemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10D7C88-CA93-466C-839E-223F04AF0899}|PersonelTracking\\PersonalTracking.csproj|solutionrelative:personeltracking\\frmemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5899FFDF-B59B-46DE-AFBA-EEF2C04522B2}|DAL\\DAL.csproj|D:\\DONET\\PersonelTracking\\dal\\dao\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5899FFDF-B59B-46DE-AFBA-EEF2C04522B2}|DAL\\DAL.csproj|solutionrelative:dal\\dao\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmEmployeeList.cs [Design]",
+              "DocumentMoniker": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmEmployeeList.cs",
+              "RelativeDocumentMoniker": "PersonelTracking\\FrmEmployeeList.cs",
+              "ToolTip": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmEmployeeList.cs [Design]",
+              "RelativeToolTip": "PersonelTracking\\FrmEmployeeList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T18:45:30.557Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmDepartment.cs [Design]",
+              "DocumentMoniker": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmDepartment.cs",
+              "RelativeDocumentMoniker": "PersonelTracking\\FrmDepartment.cs",
+              "ToolTip": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmDepartment.cs [Design]",
+              "RelativeToolTip": "PersonelTracking\\FrmDepartment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T18:35:40.729Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "PersonelTracking\\FrmLogin.cs",
+              "ToolTip": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmLogin.cs [Design]*",
+              "RelativeToolTip": "PersonelTracking\\FrmLogin.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T08:35:08.26Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "PersonelTracking\\FrmLogin.cs",
+              "ToolTip": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmLogin.cs*",
+              "RelativeToolTip": "PersonelTracking\\FrmLogin.cs*",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T08:58:43.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmEmployee.cs [Design]",
+              "DocumentMoniker": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmEmployee.cs",
+              "RelativeDocumentMoniker": "PersonelTracking\\FrmEmployee.cs",
+              "ToolTip": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmEmployee.cs [Design]",
+              "RelativeToolTip": "PersonelTracking\\FrmEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T18:45:42.275Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DONET\\PersonelTracking\\PersonelTracking\\Program.cs",
+              "RelativeDocumentMoniker": "PersonelTracking\\Program.cs",
+              "ToolTip": "D:\\DONET\\PersonelTracking\\PersonelTracking\\Program.cs",
+              "RelativeToolTip": "PersonelTracking\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T11:02:29.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "General.cs",
+              "DocumentMoniker": "D:\\DONET\\PersonelTracking\\PersonelTracking\\General.cs",
+              "RelativeDocumentMoniker": "PersonelTracking\\General.cs",
+              "ToolTip": "D:\\DONET\\PersonelTracking\\PersonelTracking\\General.cs",
+              "RelativeToolTip": "PersonelTracking\\General.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T10:59:58.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmTaskList.cs [Design]",
+              "DocumentMoniker": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmTaskList.cs",
+              "RelativeDocumentMoniker": "PersonelTracking\\FrmTaskList.cs",
+              "ToolTip": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmTaskList.cs [Design]",
+              "RelativeToolTip": "PersonelTracking\\FrmTaskList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T09:32:20.404Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmTaskList.cs",
+              "DocumentMoniker": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmTaskList.cs",
+              "RelativeDocumentMoniker": "PersonelTracking\\FrmTaskList.cs",
+              "ToolTip": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmTaskList.cs",
+              "RelativeToolTip": "PersonelTracking\\FrmTaskList.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAmwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T09:32:24.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmTask.cs [Design]",
+              "DocumentMoniker": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmTask.cs",
+              "RelativeDocumentMoniker": "PersonelTracking\\FrmTask.cs",
+              "ToolTip": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmTask.cs [Design]",
+              "RelativeToolTip": "PersonelTracking\\FrmTask.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T09:32:18.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmSalaryList.cs [Design]",
+              "DocumentMoniker": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmSalaryList.cs",
+              "RelativeDocumentMoniker": "PersonelTracking\\FrmSalaryList.cs",
+              "ToolTip": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmSalaryList.cs [Design]",
+              "RelativeToolTip": "PersonelTracking\\FrmSalaryList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T09:32:16.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmSalary.cs [Design]",
+              "DocumentMoniker": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmSalary.cs",
+              "RelativeDocumentMoniker": "PersonelTracking\\FrmSalary.cs",
+              "ToolTip": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmSalary.cs [Design]",
+              "RelativeToolTip": "PersonelTracking\\FrmSalary.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T09:32:02.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmPosition.cs [Design]",
+              "DocumentMoniker": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmPosition.cs",
+              "RelativeDocumentMoniker": "PersonelTracking\\FrmPosition.cs",
+              "ToolTip": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmPosition.cs [Design]",
+              "RelativeToolTip": "PersonelTracking\\FrmPosition.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T08:35:16.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmDepartmentList.cs [Design]",
+              "DocumentMoniker": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmDepartmentList.cs",
+              "RelativeDocumentMoniker": "PersonelTracking\\FrmDepartmentList.cs",
+              "ToolTip": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmDepartmentList.cs [Design]",
+              "RelativeToolTip": "PersonelTracking\\FrmDepartmentList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T19:33:11.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmPositionList.cs [Design]",
+              "DocumentMoniker": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmPositionList.cs",
+              "RelativeDocumentMoniker": "PersonelTracking\\FrmPositionList.cs",
+              "ToolTip": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmPositionList.cs [Design]",
+              "RelativeToolTip": "PersonelTracking\\FrmPositionList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T08:35:18.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmPermissionList.cs [Design]",
+              "DocumentMoniker": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmPermissionList.cs",
+              "RelativeDocumentMoniker": "PersonelTracking\\FrmPermissionList.cs",
+              "ToolTip": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmPermissionList.cs [Design]",
+              "RelativeToolTip": "PersonelTracking\\FrmPermissionList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T08:35:12.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmPermissionList.cs",
+              "DocumentMoniker": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmPermissionList.cs",
+              "RelativeDocumentMoniker": "PersonelTracking\\FrmPermissionList.cs",
+              "ToolTip": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmPermissionList.cs",
+              "RelativeToolTip": "PersonelTracking\\FrmPermissionList.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAmwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T09:16:15.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmMain.cs [Design]",
+              "DocumentMoniker": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmMain.cs",
+              "RelativeDocumentMoniker": "PersonelTracking\\FrmMain.cs",
+              "ToolTip": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmMain.cs [Design]",
+              "RelativeToolTip": "PersonelTracking\\FrmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T08:35:11.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmPermission.cs [Design]",
+              "DocumentMoniker": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmPermission.cs",
+              "RelativeDocumentMoniker": "PersonelTracking\\FrmPermission.cs",
+              "ToolTip": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmPermission.cs [Design]",
+              "RelativeToolTip": "PersonelTracking\\FrmPermission.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T09:07:32.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmMain.cs",
+              "RelativeDocumentMoniker": "PersonelTracking\\FrmMain.cs",
+              "ToolTip": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmMain.cs",
+              "RelativeToolTip": "PersonelTracking\\FrmMain.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T09:07:12.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmEmployeeList.cs",
+              "DocumentMoniker": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmEmployeeList.cs",
+              "RelativeDocumentMoniker": "PersonelTracking\\FrmEmployeeList.cs",
+              "ToolTip": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmEmployeeList.cs",
+              "RelativeToolTip": "PersonelTracking\\FrmEmployeeList.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAuwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T18:45:32.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmDepartmentList.cs",
+              "DocumentMoniker": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmDepartmentList.cs",
+              "RelativeDocumentMoniker": "PersonelTracking\\FrmDepartmentList.cs",
+              "ToolTip": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmDepartmentList.cs",
+              "RelativeToolTip": "PersonelTracking\\FrmDepartmentList.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T19:33:15.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FrmDepartment.cs",
+              "DocumentMoniker": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmDepartment.cs",
+              "RelativeDocumentMoniker": "PersonelTracking\\FrmDepartment.cs",
+              "ToolTip": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmDepartment.cs",
+              "RelativeToolTip": "PersonelTracking\\FrmDepartment.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T18:36:05.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "recruitment.png - PNG [512x512, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\DONET\\PersonelTracking\\PersonelTracking\\Resources\\recruitment.png",
+              "RelativeDocumentMoniker": "PersonelTracking\\Resources\\recruitment.png",
+              "ToolTip": "D:\\DONET\\PersonelTracking\\PersonelTracking\\Resources\\recruitment.png - PNG [512x512, 32 bit, PNG]",
+              "RelativeToolTip": "PersonelTracking\\Resources\\recruitment.png - PNG [512x512, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-03-31T08:20:57.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EmployeeDataClass.designer.cs",
+              "DocumentMoniker": "D:\\DONET\\PersonelTracking\\DAL\\EmployeeDataClass.designer.cs",
+              "RelativeDocumentMoniker": "DAL\\EmployeeDataClass.designer.cs",
+              "ToolTip": "D:\\DONET\\PersonelTracking\\DAL\\EmployeeDataClass.designer.cs",
+              "RelativeToolTip": "DAL\\EmployeeDataClass.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T16:21:42.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DepartmentDAO.cs",
+              "DocumentMoniker": "D:\\DONET\\PersonelTracking\\DAL\\DAO\\DepartmentDAO.cs",
+              "RelativeDocumentMoniker": "DAL\\DAO\\DepartmentDAO.cs",
+              "ToolTip": "D:\\DONET\\PersonelTracking\\DAL\\DAO\\DepartmentDAO.cs",
+              "RelativeToolTip": "DAL\\DAO\\DepartmentDAO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T18:02:04.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DepartmentBLL.cs",
+              "DocumentMoniker": "D:\\DONET\\PersonelTracking\\BLL\\DepartmentBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\DepartmentBLL.cs",
+              "ToolTip": "D:\\DONET\\PersonelTracking\\BLL\\DepartmentBLL.cs",
+              "RelativeToolTip": "BLL\\DepartmentBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T18:02:06.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EmployeeDataClass.dbml",
+              "DocumentMoniker": "D:\\DONET\\PersonelTracking\\DAL\\EmployeeDataClass.dbml",
+              "RelativeDocumentMoniker": "DAL\\EmployeeDataClass.dbml",
+              "ToolTip": "D:\\DONET\\PersonelTracking\\DAL\\EmployeeDataClass.dbml",
+              "RelativeToolTip": "DAL\\EmployeeDataClass.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2024-03-30T16:18:18.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FrmDepartment.Designer.cs",
+              "DocumentMoniker": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmDepartment.Designer.cs",
+              "RelativeDocumentMoniker": "PersonelTracking\\FrmDepartment.Designer.cs",
+              "ToolTip": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmDepartment.Designer.cs",
+              "RelativeToolTip": "PersonelTracking\\FrmDepartment.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T18:35:49.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FrmEmployee.cs",
+              "DocumentMoniker": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmEmployee.cs",
+              "RelativeDocumentMoniker": "PersonelTracking\\FrmEmployee.cs",
+              "ToolTip": "D:\\DONET\\PersonelTracking\\PersonelTracking\\FrmEmployee.cs",
+              "RelativeToolTip": "PersonelTracking\\FrmEmployee.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T18:45:46.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EmployeeContext.cs",
+              "DocumentMoniker": "D:\\DONET\\PersonelTracking\\DAL\\DAO\\EmployeeContext.cs",
+              "RelativeDocumentMoniker": "DAL\\DAO\\EmployeeContext.cs",
+              "ToolTip": "D:\\DONET\\PersonelTracking\\DAL\\DAO\\EmployeeContext.cs",
+              "RelativeToolTip": "DAL\\DAO\\EmployeeContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T18:25:04.221Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

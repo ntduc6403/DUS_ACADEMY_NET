@@ -1,0 +1,800 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DONET\\DusCourse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|D:\\DONET\\DusCourse\\ui\\areas\\admin\\views\\socialmedia\\addsocialmedia.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\views\\socialmedia\\addsocialmedia.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|D:\\DONET\\DusCourse\\ui\\areas\\admin\\views\\socialmedia\\partial\\socialmediaform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\views\\socialmedia\\partial\\socialmediaform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|D:\\DONET\\DusCourse\\ui\\areas\\admin\\views\\shared\\messageform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\views\\shared\\messageform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|D:\\DONET\\DusCourse\\ui\\areas\\admin\\views\\shared\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\views\\shared\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0539A6B-D617-46F8-9E7F-E3C545908262}|DAL\\DAL.csproj|d:\\donet\\duscourse\\dal\\socialmediadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0539A6B-D617-46F8-9E7F-E3C545908262}|DAL\\DAL.csproj|solutionrelative:dal\\socialmediadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C446AC-F719-4D9F-981B-EAD484FC06DB}|BLL\\BLL.csproj|D:\\DONET\\DusCourse\\bll\\socialmediabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C446AC-F719-4D9F-981B-EAD484FC06DB}|BLL\\BLL.csproj|solutionrelative:bll\\socialmediabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|D:\\DONET\\DusCourse\\ui\\areas\\admin\\controllers\\socialmediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\controllers\\socialmediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|D:\\DONET\\DusCourse\\ui\\areas\\admin\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|D:\\DONET\\DusCourse\\ui\\areas\\admin\\views\\meta\\addmeta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\views\\meta\\addmeta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|D:\\DONET\\DusCourse\\ui\\areas\\admin\\views\\meta\\partial\\metaform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\views\\meta\\partial\\metaform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|D:\\DONET\\DusCourse\\ui\\areas\\admin\\controllers\\metacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\controllers\\metacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCA79B1-19C6-4B14-8995-8032B50DFEB6}|DTO\\DTO.csproj|D:\\DONET\\DusCourse\\dto\\metadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCA79B1-19C6-4B14-8995-8032B50DFEB6}|DTO\\DTO.csproj|solutionrelative:dto\\metadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0539A6B-D617-46F8-9E7F-E3C545908262}|DAL\\DAL.csproj|D:\\DONET\\DusCourse\\dal\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0539A6B-D617-46F8-9E7F-E3C545908262}|DAL\\DAL.csproj|solutionrelative:dal\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0539A6B-D617-46F8-9E7F-E3C545908262}|DAL\\DAL.csproj|D:\\DONET\\DusCourse\\dal\\metadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0539A6B-D617-46F8-9E7F-E3C545908262}|DAL\\DAL.csproj|solutionrelative:dal\\metadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C446AC-F719-4D9F-981B-EAD484FC06DB}|BLL\\BLL.csproj|D:\\DONET\\DusCourse\\bll\\metabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C446AC-F719-4D9F-981B-EAD484FC06DB}|BLL\\BLL.csproj|solutionrelative:bll\\metabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCA79B1-19C6-4B14-8995-8032B50DFEB6}|DTO\\DTO.csproj|D:\\DONET\\DusCourse\\dto\\userstatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCA79B1-19C6-4B14-8995-8032B50DFEB6}|DTO\\DTO.csproj|solutionrelative:dto\\userstatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0539A6B-D617-46F8-9E7F-E3C545908262}|DAL\\DAL.csproj|D:\\DONET\\DusCourse\\dal\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C0539A6B-D617-46F8-9E7F-E3C545908262}|DAL\\DAL.csproj|solutionrelative:dal\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|D:\\DONET\\DusCourse\\ui\\areas\\admin\\views\\meta\\updatemeta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\views\\meta\\updatemeta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C446AC-F719-4D9F-981B-EAD484FC06DB}|BLL\\BLL.csproj|D:\\DONET\\DusCourse\\bll\\general.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C446AC-F719-4D9F-981B-EAD484FC06DB}|BLL\\BLL.csproj|solutionrelative:bll\\general.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCA79B1-19C6-4B14-8995-8032B50DFEB6}|DTO\\DTO.csproj|D:\\DONET\\DusCourse\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCA79B1-19C6-4B14-8995-8032B50DFEB6}|DTO\\DTO.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0539A6B-D617-46F8-9E7F-E3C545908262}|DAL\\DAL.csproj|D:\\DONET\\DusCourse\\dal\\logdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0539A6B-D617-46F8-9E7F-E3C545908262}|DAL\\DAL.csproj|solutionrelative:dal\\logdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|D:\\DONET\\DusCourse\\ui\\areas\\admin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C446AC-F719-4D9F-981B-EAD484FC06DB}|BLL\\BLL.csproj|D:\\DONET\\DusCourse\\bll\\userbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C446AC-F719-4D9F-981B-EAD484FC06DB}|BLL\\BLL.csproj|solutionrelative:bll\\userbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|D:\\DONET\\DusCourse\\ui\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|D:\\DONET\\DusCourse\\ui\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|solutionrelative:ui\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C446AC-F719-4D9F-981B-EAD484FC06DB}|BLL\\BLL.csproj|D:\\DONET\\DusCourse\\bll\\logbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C446AC-F719-4D9F-981B-EAD484FC06DB}|BLL\\BLL.csproj|solutionrelative:bll\\logbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0539A6B-D617-46F8-9E7F-E3C545908262}|DAL\\DAL.csproj|D:\\DONET\\DusCourse\\dal\\postcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0539A6B-D617-46F8-9E7F-E3C545908262}|DAL\\DAL.csproj|solutionrelative:dal\\postcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/TIENDUC_SQLEXPRESS/POSTDATA/True/SqlTable/dbo.SocialMedia.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/TIENDUC_SQLEXPRESS/POSTDATA/True/SqlTable/dbo.T_User.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/TIENDUC_SQLEXPRESS/POSTDATA/True/SqlTable/dbo.Meta.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DONET\\DusCourse\\ui\\areas\\admin\\views\\meta\\partial\\messageform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ui\\areas\\admin\\views\\meta\\partial\\messageform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0539A6B-D617-46F8-9E7F-E3C545908262}|DAL\\DAL.csproj|D:\\DONET\\DusCourse\\dal\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C0539A6B-D617-46F8-9E7F-E3C545908262}|DAL\\DAL.csproj|solutionrelative:dal\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCA79B1-19C6-4B14-8995-8032B50DFEB6}|DTO\\DTO.csproj|D:\\DONET\\DusCourse\\dto\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8CCA79B1-19C6-4B14-8995-8032B50DFEB6}|DTO\\DTO.csproj|solutionrelative:dto\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C446AC-F719-4D9F-981B-EAD484FC06DB}|BLL\\BLL.csproj|D:\\DONET\\DusCourse\\bll\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{84C446AC-F719-4D9F-981B-EAD484FC06DB}|BLL\\BLL.csproj|solutionrelative:bll\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|D:\\DONET\\DusCourse\\ui\\areas\\admin\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCA79B1-19C6-4B14-8995-8032B50DFEB6}|DTO\\DTO.csproj|D:\\DONET\\DusCourse\\dto\\socialmediadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCA79B1-19C6-4B14-8995-8032B50DFEB6}|DTO\\DTO.csproj|solutionrelative:dto\\socialmediadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|D:\\DONET\\DusCourse\\ui\\areas\\admin\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|D:\\DONET\\DusCourse\\ui\\areas\\admin\\views\\meta\\metalist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\views\\meta\\metalist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|D:\\DONET\\DusCourse\\ui\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|solutionrelative:ui\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|D:\\DONET\\DusCourse\\ui\\areas\\admin\\content\\css\\icheck-bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\content\\css\\icheck-bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|D:\\DONET\\DusCourse\\ui\\areas\\admin\\content\\tempimage\\user.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\content\\tempimage\\user.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|D:\\DONET\\DusCourse\\ui\\areas\\admin\\content\\tempimage\\logo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\content\\tempimage\\logo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|D:\\DONET\\DusCourse\\ui\\areas\\admin\\content\\js\\demo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\content\\js\\demo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|D:\\DONET\\DusCourse\\ui\\areas\\admin\\content\\css\\adminlte.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\content\\css\\adminlte.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|D:\\DONET\\DusCourse\\ui\\areas\\admin\\content\\css\\all.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\content\\css\\all.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|D:\\DONET\\DusCourse\\ui\\areas\\admin\\content\\js\\adminlte.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\content\\js\\adminlte.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|D:\\DONET\\DusCourse\\ui\\areas\\admin\\content\\js\\bootstrap.bundle.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\content\\js\\bootstrap.bundle.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|D:\\DONET\\DusCourse\\ui\\areas\\admin\\content\\js\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\content\\js\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|D:\\DONET\\DusCourse\\ui\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{564B859E-BAB5-471C-929F-E916F8F576E2}|UI\\UI.csproj|solutionrelative:ui\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminLayout.cshtml",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Views\\Shared\\AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Views\\Shared\\AdminLayout.cshtml",
+              "ToolTip": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Views\\Shared\\AdminLayout.cshtml",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Views\\Shared\\AdminLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIDAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-03T17:01:05.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SocialMediaDAO.cs",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\DAL\\SocialMediaDAO.cs",
+              "RelativeDocumentMoniker": "DAL\\SocialMediaDAO.cs",
+              "ToolTip": "D:\\DONET\\DusCourse\\DAL\\SocialMediaDAO.cs",
+              "RelativeToolTip": "DAL\\SocialMediaDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T11:00:29.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageForm.cshtml",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Views\\Shared\\MessageForm.cshtml",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Views\\Shared\\MessageForm.cshtml",
+              "ToolTip": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Views\\Shared\\MessageForm.cshtml",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Views\\Shared\\MessageForm.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T18:22:07.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SocialMediaForm.cshtml",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Views\\SocialMedia\\Partial\\SocialMediaForm.cshtml",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Views\\SocialMedia\\Partial\\SocialMediaForm.cshtml",
+              "ToolTip": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Views\\SocialMedia\\Partial\\SocialMediaForm.cshtml",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Views\\SocialMedia\\Partial\\SocialMediaForm.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T11:13:59.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddSocialMedia.cshtml",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Views\\SocialMedia\\AddSocialMedia.cshtml",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Views\\SocialMedia\\AddSocialMedia.cshtml",
+              "ToolTip": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Views\\SocialMedia\\AddSocialMedia.cshtml",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Views\\SocialMedia\\AddSocialMedia.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T11:11:37.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SocialMediaBLL.cs",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\BLL\\SocialMediaBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\SocialMediaBLL.cs",
+              "ToolTip": "D:\\DONET\\DusCourse\\BLL\\SocialMediaBLL.cs",
+              "RelativeToolTip": "BLL\\SocialMediaBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T10:59:49.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SocialMediaController.cs",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Controllers\\SocialMediaController.cs",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Controllers\\SocialMediaController.cs",
+              "ToolTip": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Controllers\\SocialMediaController.cs",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Controllers\\SocialMediaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T10:59:08.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Views\\Login\\Index.cshtml",
+              "ToolTip": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-03T08:53:37.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddMeta.cshtml",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Views\\Meta\\AddMeta.cshtml",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Views\\Meta\\AddMeta.cshtml",
+              "ToolTip": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Views\\Meta\\AddMeta.cshtml",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Views\\Meta\\AddMeta.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T17:16:06.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MetaForm.cshtml",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Views\\Meta\\Partial\\MetaForm.cshtml",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Views\\Meta\\Partial\\MetaForm.cshtml",
+              "ToolTip": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Views\\Meta\\Partial\\MetaForm.cshtml",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Views\\Meta\\Partial\\MetaForm.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T17:19:04.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MetaController.cs",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Controllers\\MetaController.cs",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Controllers\\MetaController.cs",
+              "ToolTip": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Controllers\\MetaController.cs",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Controllers\\MetaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T17:06:30.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MetaDTO.cs",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\DTO\\MetaDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\MetaDTO.cs",
+              "ToolTip": "D:\\DONET\\DusCourse\\DTO\\MetaDTO.cs",
+              "RelativeToolTip": "DTO\\MetaDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T17:10:37.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserDAO.cs",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\DAL\\UserDAO.cs",
+              "RelativeDocumentMoniker": "DAL\\UserDAO.cs",
+              "ToolTip": "D:\\DONET\\DusCourse\\DAL\\UserDAO.cs",
+              "RelativeToolTip": "DAL\\UserDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T09:46:26.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MetaDAO.cs",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\DAL\\MetaDAO.cs",
+              "RelativeDocumentMoniker": "DAL\\MetaDAO.cs",
+              "ToolTip": "D:\\DONET\\DusCourse\\DAL\\MetaDAO.cs",
+              "RelativeToolTip": "DAL\\MetaDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T17:34:13.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MetaBLL.cs",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\BLL\\MetaBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\MetaBLL.cs",
+              "ToolTip": "D:\\DONET\\DusCourse\\BLL\\MetaBLL.cs",
+              "RelativeToolTip": "BLL\\MetaBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T17:33:44.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserStatic.cs",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\DTO\\UserStatic.cs",
+              "RelativeDocumentMoniker": "DTO\\UserStatic.cs",
+              "ToolTip": "D:\\DONET\\DusCourse\\DTO\\UserStatic.cs",
+              "RelativeToolTip": "DTO\\UserStatic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T15:01:04.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Model1.Context.tt",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\DAL\\Model1.Context.tt",
+              "RelativeDocumentMoniker": "DAL\\Model1.Context.tt",
+              "ToolTip": "D:\\DONET\\DusCourse\\DAL\\Model1.Context.tt",
+              "RelativeToolTip": "DAL\\Model1.Context.tt",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-25T09:46:59.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdateMeta.cshtml",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Views\\Meta\\UpdateMeta.cshtml",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Views\\Meta\\UpdateMeta.cshtml",
+              "ToolTip": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Views\\Meta\\UpdateMeta.cshtml",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Views\\Meta\\UpdateMeta.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T09:48:00.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "General.cs",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\BLL\\General.cs",
+              "RelativeDocumentMoniker": "BLL\\General.cs",
+              "ToolTip": "D:\\DONET\\DusCourse\\BLL\\General.cs",
+              "RelativeToolTip": "BLL\\General.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T16:08:56.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LogDAO.cs",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\DAL\\LogDAO.cs",
+              "RelativeDocumentMoniker": "DAL\\LogDAO.cs",
+              "ToolTip": "D:\\DONET\\DusCourse\\DAL\\LogDAO.cs",
+              "RelativeToolTip": "DAL\\LogDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T15:06:30.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\UserDTO.cs",
+              "ToolTip": "D:\\DONET\\DusCourse\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "DTO\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T11:04:49.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T08:52:53.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserBLL.cs",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\BLL\\UserBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\UserBLL.cs",
+              "ToolTip": "D:\\DONET\\DusCourse\\BLL\\UserBLL.cs",
+              "RelativeToolTip": "BLL\\UserBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T09:45:34.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminAreaRegistration.cs",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ToolTip": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeToolTip": "UI\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T04:43:10.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Site.css",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\UI\\Content\\Site.css",
+              "RelativeDocumentMoniker": "UI\\Content\\Site.css",
+              "ToolTip": "D:\\DONET\\DusCourse\\UI\\Content\\Site.css",
+              "RelativeToolTip": "UI\\Content\\Site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-17T17:52:21.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LogBLL.cs",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\BLL\\LogBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\LogBLL.cs",
+              "ToolTip": "D:\\DONET\\DusCourse\\BLL\\LogBLL.cs",
+              "RelativeToolTip": "BLL\\LogBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T15:06:05.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\BLL\\packages.config",
+              "RelativeDocumentMoniker": "BLL\\packages.config",
+              "ToolTip": "D:\\DONET\\DusCourse\\BLL\\packages.config",
+              "RelativeToolTip": "BLL\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-23T18:11:20.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PostContext.cs",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\DAL\\PostContext.cs",
+              "RelativeDocumentMoniker": "DAL\\PostContext.cs",
+              "ToolTip": "D:\\DONET\\DusCourse\\DAL\\PostContext.cs",
+              "RelativeToolTip": "DAL\\PostContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T08:48:25.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\DTO\\packages.config",
+              "RelativeDocumentMoniker": "DTO\\packages.config",
+              "ToolTip": "D:\\DONET\\DusCourse\\DTO\\packages.config",
+              "RelativeToolTip": "DTO\\packages.config",
+              "ViewState": "AQIAACUAAABAssIJkbcpwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-19T18:19:34.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\DAL\\packages.config",
+              "RelativeDocumentMoniker": "DAL\\packages.config",
+              "ToolTip": "D:\\DONET\\DusCourse\\DAL\\packages.config",
+              "RelativeToolTip": "DAL\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-17T17:01:12.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "web.config",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Views\\web.config",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Views\\web.config",
+              "ToolTip": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Views\\web.config",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Views\\web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-17T17:52:28.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SocialMediaDTO.cs",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\DTO\\SocialMediaDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\SocialMediaDTO.cs",
+              "ToolTip": "D:\\DONET\\DusCourse\\DTO\\SocialMediaDTO.cs",
+              "RelativeToolTip": "DTO\\SocialMediaDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T11:01:10.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "dbo.SocialMedia [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/TIENDUC_SQLEXPRESS/POSTDATA/True/SqlTable/dbo.SocialMedia.sql",
+              "ToolTip": "dbo.SocialMedia [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-23T09:00:58.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Controllers\\PostController.cs",
+              "ToolTip": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Controllers\\PostController.cs",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Controllers\\PostController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T09:59:29.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MetaList.cshtml",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Views\\Meta\\MetaList.cshtml",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Views\\Meta\\MetaList.cshtml",
+              "ToolTip": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Views\\Meta\\MetaList.cshtml",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Views\\Meta\\MetaList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T09:48:14.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MessageForm.cshtml",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Views\\Meta\\Partial\\MessageForm.cshtml",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Views\\Meta\\Partial\\MessageForm.cshtml",
+              "ToolTip": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Views\\Meta\\Partial\\MessageForm.cshtml",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Views\\Meta\\Partial\\MessageForm.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T15:44:32.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\UI\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "UI\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\DONET\\DusCourse\\UI\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "UI\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T11:15:04.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "dbo.T_User [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/TIENDUC_SQLEXPRESS/POSTDATA/True/SqlTable/dbo.T_User.sql",
+              "ToolTip": "dbo.T_User [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-17T18:33:38.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "dbo.Meta [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/TIENDUC_SQLEXPRESS/POSTDATA/True/SqlTable/dbo.Meta.sql",
+              "ToolTip": "dbo.Meta [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-17T18:28:40.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "icheck-bootstrap.min.css",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Content\\CSS\\icheck-bootstrap.min.css",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Content\\CSS\\icheck-bootstrap.min.css",
+              "ToolTip": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Content\\CSS\\icheck-bootstrap.min.css",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Content\\CSS\\icheck-bootstrap.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-11T17:02:08.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "user.jpg - Bitmap [612x408, 24 bit, JPG]",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Content\\tempimage\\user.jpg",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Content\\tempimage\\user.jpg",
+              "ToolTip": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Content\\tempimage\\user.jpg - Bitmap [612x408, 24 bit, JPG]",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Content\\tempimage\\user.jpg - Bitmap [612x408, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-04-11T17:02:35.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Logo.png - PNG [564x541, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Content\\tempimage\\Logo.png",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Content\\tempimage\\Logo.png",
+              "ToolTip": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Content\\tempimage\\Logo.png - PNG [564x541, 32 bit, PNG]",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Content\\tempimage\\Logo.png - PNG [564x541, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-04-11T17:02:34.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "demo.js",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Content\\JS\\demo.js",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Content\\JS\\demo.js",
+              "ToolTip": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Content\\JS\\demo.js",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Content\\JS\\demo.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-11T17:02:30.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "adminlte.min.css",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Content\\CSS\\adminlte.min.css",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Content\\CSS\\adminlte.min.css",
+              "ToolTip": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Content\\CSS\\adminlte.min.css",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Content\\CSS\\adminlte.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAADZBwMA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-03T16:20:52.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "all.min.css",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Content\\CSS\\all.min.css",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Content\\CSS\\all.min.css",
+              "ToolTip": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Content\\CSS\\all.min.css",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Content\\CSS\\all.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-03T16:21:02.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "adminlte.min.js",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Content\\JS\\adminlte.min.js",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Content\\JS\\adminlte.min.js",
+              "ToolTip": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Content\\JS\\adminlte.min.js",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Content\\JS\\adminlte.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-03T17:44:10.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "bootstrap.bundle.min.js",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Content\\JS\\bootstrap.bundle.min.js",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Content\\JS\\bootstrap.bundle.min.js",
+              "ToolTip": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Content\\JS\\bootstrap.bundle.min.js",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Content\\JS\\bootstrap.bundle.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-03T16:21:06.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "jquery.min.js",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Content\\JS\\jquery.min.js",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Content\\JS\\jquery.min.js",
+              "ToolTip": "D:\\DONET\\DusCourse\\UI\\Areas\\Admin\\Content\\JS\\jquery.min.js",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Content\\JS\\jquery.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-03T16:21:11.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\DONET\\DusCourse\\UI\\Web.config",
+              "RelativeDocumentMoniker": "UI\\Web.config",
+              "ToolTip": "D:\\DONET\\DusCourse\\UI\\Web.config",
+              "RelativeToolTip": "UI\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwDUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-03T08:47:20.714Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
